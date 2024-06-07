@@ -1,0 +1,44 @@
+body {
+    max-width: 100%; overflow-x: hidden; padding: auto;
+}
+
+header {
+    text-align: center; background: #f3f3f3; position: relative; padding: 20px;
+}
+
+header img {
+    width: 150px; height: auto; border-radius: 8px; box-shadow: 1px 2px 3px #222;
+}
+
+header h1 {
+    font-family: 'century gothic'; font-size: 20px; text-transform: uppercase; color: #4444f5;
+}
+
+main {
+    text-align: center; background: beige; padding:40px;
+}
+
+main iframe {
+    border-radius: 8px;
+}
+
+main p {
+    font-family: 'century gothic'; font-size: 17px; color: #333;
+}
+
+footer {
+    width: 100%; background: #333; color: #f2f2f2; padding-top: 10px; padding-bottom: 10px;
+}
+
+footer div {
+    width: 46%; display: inline-block !important; padding-left: 20px; padding-right: 20px;
+}
+
+footer .desarrollo {
+    text-align: right; float: right;
+}
+
+
+footer a {
+    color: #fff; text-decoration: none;
+}
